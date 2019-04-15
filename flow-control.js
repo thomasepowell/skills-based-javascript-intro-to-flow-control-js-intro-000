@@ -21,8 +21,9 @@ return "You are a teenager!"
   return "You are a kid"
 } else if (age >= 20) {
   return "You are a grownup"
-
 }
+
+)
 
 function ternaryTeenager(age) {
 
